@@ -1,3 +1,9 @@
 [submodule "api"]
 	path = api
 	url = https://github.com/uup-dump/api.git
+[submodule "fileinfo"]
+	path = fileinfo
+	url = https://github.com/uup-dump/fileinfo.git
+[submodule "packs"]
+	path = packs
+	url = https://github.com/uup-dump/packs.git
