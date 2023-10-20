@@ -21,4 +21,4 @@ Clone this repo with its submodules and configure your web server to serve it.
 
 As of writing, the `fileinfo` submodule takes up **over 7GB of disk space**.
 
-`git clone --recurse-submodules https://github.com/Canowyrms/uupdump-website.git`
+`git clone --recurse-submodules https://github.com/0xMDIV/uupdump-website.git`
